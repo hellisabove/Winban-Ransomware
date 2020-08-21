@@ -1,0 +1,12 @@
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Debug\WinBan Ransomware.exe.config
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan Ransomware.vbprojResolveAssemblyReference.cache
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan_Ransomware.Form1.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan_Ransomware.Resources.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan_Ransomware.Form2.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan Ransomware.vbproj.GenerateResource.Cache
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Debug\WinBan Ransomware.exe
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Debug\WinBan Ransomware.pdb
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Debug\WinBan Ransomware.xml
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan Ransomware.exe
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan Ransomware.xml
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Debug\WinBan Ransomware.pdb

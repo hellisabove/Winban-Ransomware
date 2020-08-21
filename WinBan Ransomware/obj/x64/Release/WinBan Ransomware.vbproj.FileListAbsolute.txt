@@ -1,0 +1,11 @@
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Release\WinBan Ransomware.exe.config
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Release\WinBan Ransomware.exe
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Release\WinBan Ransomware.pdb
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\bin\x64\Release\WinBan Ransomware.xml
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan_Ransomware.Form1.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan_Ransomware.Resources.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan_Ransomware.Form2.resources
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan Ransomware.vbproj.GenerateResource.Cache
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan Ransomware.exe
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan Ransomware.xml
+C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x64\Release\WinBan Ransomware.pdb
