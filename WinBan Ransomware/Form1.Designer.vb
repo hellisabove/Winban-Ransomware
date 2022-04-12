@@ -64,7 +64,7 @@ Partial Class Form1
         Me.Label3.ForeColor = System.Drawing.Color.White
         Me.Label3.Location = New System.Drawing.Point(-5, 266)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(1322, 175)
+        Me.Label3.Size = New System.Drawing.Size(1322, 200)
         Me.Label3.TabIndex = 2
         Me.Label3.Text = resources.GetString("Label3.Text")
         '
@@ -129,10 +129,10 @@ Partial Class Form1
         Me.Label5.ForeColor = System.Drawing.Color.White
         Me.Label5.Location = New System.Drawing.Point(7, 514)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(298, 125)
+        Me.Label5.Size = New System.Drawing.Size(327, 125)
         Me.Label5.TabIndex = 5
-        Me.Label5.Text = "Microsoft Tech People Around" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "NAME:Error Coder" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Phone Number:0998ERRORERROR" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Co" &
-    "ntact:ErrorCoder@error.error"
+        Me.Label5.Text = "Microsoft Tech People Around" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Name:Mr. Hunter" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Phone Number:0998ERRORERROR" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Con" &
+    "tact:hellisabove@protonmail.com"
         '
         'Form1
         '
